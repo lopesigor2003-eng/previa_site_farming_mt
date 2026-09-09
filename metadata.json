@@ -1,0 +1,6 @@
+{
+  "name": "Farming Solutions Mato Grosso - Drones Agrícolas",
+  "description": "Website oficial e interativo 3D da Farming Solutions Mato Grosso em Sorriso-MT. Drones agrícolas de alta performance, pulverização de precisão, assistência técnica autorizada e treinamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
